@@ -1,14 +1,14 @@
-// src/data/operationsData.js
 const operationsData = {
   operations: [
     {
       title: 'Пластика грудей',
-      description: 'Опис пластики грудей.',
+      description:
+        'Операція по збільшенню грудей є досить часта операція, яка дозволяє пацієнтам покращити форму та розмір грудей. Вона виконується з використанням імплантів або за допомогою пересадки власних тканин.',
       image: '/images/plastika_grudey.jpg',
     },
     {
       title: 'Пластика обличчя',
-      description: 'Опис пластики обличчя.',
+      description: 'Підтяжка обличча є потужною операцією по омоложенню',
       image: '/images/plastika_oblichchya.jpg',
     },
     // Додайте інші операції

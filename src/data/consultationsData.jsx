@@ -1,5 +1,5 @@
 const consultationsData = {
-  manipulations: [
+  consultations: [
     {
       title: 'Вибору операції',
       description: 'Обговорення операції.',
